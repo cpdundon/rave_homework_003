@@ -16,8 +16,8 @@
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--Top level DayNight theme to be used in AndroidManifest.xml-->
-    <!--<style name="Theme.MyApp" parent="Base.Theme.MyApp"/>-->
-    <style name="Theme.MyApp" parent="Theme.MaterialComponents.Light"/>
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp"/>
+    <!--<style name="Theme.MyApp" parent="Theme.MaterialComponents.Light"/>-->
     <!--Base custom theme which will be shared between both light and dark theme variants-->
     <style name="Base.Theme.MyApp" parent="Base.Theme.MaterialThemeBuilder">
         <!--Material color attributes (light theme) -->
